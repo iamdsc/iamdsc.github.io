@@ -1,0 +1,39 @@
+.navbar-default .navbar-brand:hover{
+	color:black;
+	font-size:23px;
+	}
+.navbar-default .navbar-brand{
+	color:black;
+	font-size:17px;
+	font-family: 'Bungee', cursive;
+}
+.navbar-default .navbar-nav>li>a:hover{
+	color:black;
+	font-size: 23px; 
+}	
+.navbar-default .navbar-nav>li>a{
+	color:black;
+	font-size:17px;
+	font-family: 'Bungee', cursive;
+}
+h1 {
+	margin-top: 100px;
+	font-size:60px;
+	font-family: 'Slabo 27px', serif;
+	width:30%;
+	border-bottom: 2px solid rgba(0,0,0,0.2);
+	padding-bottom: 20px;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);	
+}
+body{
+
+	background:url(pictures/light.jpg);
+    background-size:cover;
+    background-position: top;
+    background-repeat:no-repeat;
+	font-family:'Abril Fatface', cursive;
+	font-size:20px;
+	
+}
