@@ -30,12 +30,12 @@ h1:hover{
 }
 
 .navbar-inverse .navbar-brand:hover{
-	font-size:23px;
+	font-size:30px;
 	}
 
 .navbar-inverse .navbar-brand{
 	color:white;
-	font-size:17px;
+	font-size:25px;
 	font-family: 'Bungee', cursive;
 }
 
