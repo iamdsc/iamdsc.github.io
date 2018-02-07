@@ -4,7 +4,7 @@ html{
 body{
 	background: url(pictures/about.jpg);
 	background-size:cover;
-    background-position: top;
+    background-position: center;
     background-repeat:no-repeat;
 	font-family:'Abril Fatface', cursive;
 	font-size:20px;
